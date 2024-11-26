@@ -1,0 +1,3 @@
+# SimpleLogger settings
+ENABLE_SIMPLE_LOGGER=True
+LOG_FILE_PATH=~/logs/simple_logger.log
